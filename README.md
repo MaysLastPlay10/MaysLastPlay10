@@ -4,10 +4,9 @@
 - Pronouns: He/Him 🙂
 - Age: 15 👌
 - From Ukraine 🇺🇦
-- Taken By Cutie ❤️
 
 ## Mods Where I Work/Worked
-Vs Mico, EXE Awakening, Vs BambiWannaPhone, Way To Hell, EXE: Reincarnation, Vs EmirPlays, etc
+Restoration Of Sonic.exe (Android Porter), FNF': Rings Of Hell (Owner), Vs EmirPlays, etc
 ## My Engines
 - [Play Engine](https://MaysLastPlays-Things/FNF-PlayEngine-Rework)
 ## My Statements
